@@ -1,0 +1,19 @@
+body {
+  background: black;
+}
+
+#earth_div {
+  width:800px;
+  height:600px;
+  border:1px solid gray;
+  padding:2px;
+  background-image: url('./space.jpg');
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  color: white;
+  font-family: arial;
+  text-align: center;
+}
